@@ -26,4 +26,5 @@
 ![project-2](https://github.com/Aryanpatel1066/project/assets/112760422/4fba6cc2-cd57-4391-9338-c3f6790a4e2c)
 
 # Filter by price 
+![project-3](https://github.com/Aryanpatel1066/project/assets/112760422/3723f34b-6fde-4fd9-a6aa-d526a2212a16)
 
