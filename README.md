@@ -22,6 +22,8 @@
 # Home page
 ![project-1](https://github.com/Aryanpatel1066/project/assets/112760422/774c8f4b-b86c-4e6c-a005-5291b5d8dc94)
 
-# varios Category
+# Filter by  Category
 ![project-2](https://github.com/Aryanpatel1066/project/assets/112760422/4fba6cc2-cd57-4391-9338-c3f6790a4e2c)
+
+# Filter by price 
 
