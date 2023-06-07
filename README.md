@@ -29,5 +29,6 @@
 ![project-3](https://github.com/Aryanpatel1066/project/assets/112760422/3723f34b-6fde-4fd9-a6aa-d526a2212a16)
 
 # Cart Page
+![project-4](https://github.com/Aryanpatel1066/project/assets/112760422/9fa8c908-1540-4462-9615-6208dc62abc0)
 
 
