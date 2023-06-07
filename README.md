@@ -31,4 +31,7 @@
 # Cart Page
 ![project-4](https://github.com/Aryanpatel1066/project/assets/112760422/9fa8c908-1540-4462-9615-6208dc62abc0)
 
+# Single Product Page
+![project_5](https://github.com/Aryanpatel1066/project/assets/112760422/6523d3ff-7f06-405e-9185-6cdb641c9bab)
+
 
